@@ -46,6 +46,7 @@ defmodule Felixir.MixProject do
       {:plug_cowboy, "~> 2.5"},
       {:absinthe, "~> 1.7"},
       {:absinthe_plug, "~> 1.5.7"},
+      {:argon2_elixir, "~> 3.0.0"}
     ]
   end
 
